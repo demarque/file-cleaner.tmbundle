@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>De Marque</string>
+	<key>ordering</key>
+	<array>
+		<string>774774E5-85C7-4B88-82D1-AF23EBE996A5</string>
+		<string>B8D1AB9F-E616-47C1-9FF7-187FF59D3748</string>
+		<string>BA308324-DFC9-4A8F-9CB7-A66244D126EC</string>
+		<string>0DAF3E17-9DF8-4A20-9C71-65C5E4379AC5</string>
+	</array>
+	<key>uuid</key>
+	<string>267710E3-B183-47F5-BCA4-1F0998DB5F6C</string>
+</dict>
+</plist>
